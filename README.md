@@ -7,3 +7,4 @@
 - 解压: java -jar deflateUtil.jar j [源文件] [生成文件]
 - 压缩: java -jar deflateUtil.jar y [源文件] [生成文件]
 - 例如: java -jar deflateUtil.jar y /usr/sundae/a.txt /usr/sundae/a.txt.deflate
+[点击下载v1.0版本](https://github.com/binfenshengdai/deflateUtil/releases/download/1.0/deflateUtil.jar)
